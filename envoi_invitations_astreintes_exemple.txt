@@ -1,0 +1,9 @@
+date;type;prenom;mail
+20/01/2025;NUIT;Pippin;pippin@domaine_mail.fr
+21/01/2025;FERIE;Pippin;pippin@domaine_mail.fr
+22/01/2025;NUIT;Frodon;frodon@domaine_mail.fr
+23/01/2025;NUIT;Sam;sam@domaine_mail.fr
+24/01/2025;WEEKEND;Merry;merry@domaine_mail.fr
+25/01/2025;WEEKEND;Merry;merry@domaine_mail.fr
+26/01/2025;WEEKEND;Merry;merry@domaine_mail.fr
+27/01/2025;NUIT;Frodon;frodon@domaine_mail.fr

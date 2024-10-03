@@ -1,0 +1,11 @@
+*************************************************************************************Lancement du script pour invitations astreinte en masse le mardi 30/01/2024 16:06*************************************************************************************
+Invitation astreinte de NUIT transmise a Frodon pour le 20/01/2025
+Invitation astreinte de FERIE transmise a Pippin pour le 21/01/2025
+****************************************************************************************Lancement du script pour invitations astreinte en masse le mardi 30/01/2024 16:23****************************************************************************************
+Invitation astreinte de NUIT transmise a Sam pour le 20/01/2025
+Invitation astreinte de FERIE transmise a Merry pour le 21/01/2025
+Invitation astreinte de NUIT transmise a Frodon pour le 22/01/2025
+****************************************************************************************Lancement du script pour invitations astreinte en masse le mardi 30/01/2024 16:25****************************************************************************************
+Invitation astreinte de NUIT transmise a Sam pour le 20/01/2025
+Une erreur est survenue pour l'invitation astreinte FERIE a Frodon le 21/01/2025
+Invitation astreinte de NUIT transmise a Merry pour le 22/01/2025
